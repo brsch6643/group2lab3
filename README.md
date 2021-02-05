@@ -1,14 +1,9 @@
 
 # group2lab3
 
+Project Team Members:
 Francesca Tenney
-
-Content
-
 David Zhao
 Broderick Schmidt 
-
 Jake Werner
-Broderick Schmidt 
-David Zhao
 Brenden Garcia
